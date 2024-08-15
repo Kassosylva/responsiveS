@@ -1,2 +1,2 @@
-# responsiveS
-Approche mobile 
+# responsives 
+mobile first
